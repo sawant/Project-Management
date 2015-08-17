@@ -1,0 +1,391 @@
+{
+  "title": "Project Management",
+  "id": 1,
+  "formatVersion": 2,
+  "ideas": {
+    "31": {
+      "title": "13. Project Stakeholder Management",
+      "id": 71,
+      "ideas": {
+        "1": {
+          "title": "13.4 Control Stakeholder Engagement",
+          "id": 6,
+          "ideas": {
+            "1": {
+              "title": ".1 Inputs",
+              "id": 54,
+              "ideas": {
+                "1": {
+                  "title": ".1 Project management plan",
+                  "id": 57
+                },
+                "2": {
+                  "title": ".2 Issue log",
+                  "id": 58
+                },
+                "3": {
+                  "title": ".3 Work performance data",
+                  "id": 59
+                },
+                "4": {
+                  "title": ".4 Project documents",
+                  "id": 60
+                }
+              }
+            },
+            "2": {
+              "title": ".2 Tools & Techniques",
+              "id": 55,
+              "ideas": {
+                "1": {
+                  "title": ".1 Information management systems",
+                  "id": 61
+                },
+                "2": {
+                  "title": ".2 Expert judgement",
+                  "id": 62
+                },
+                "3": {
+                  "title": ".3 Meetings",
+                  "id": 63
+                }
+              }
+            },
+            "3": {
+              "title": ".3 Outputs",
+              "id": 56,
+              "ideas": {
+                "1": {
+                  "title": ".1 Project documents updates",
+                  "id": 65
+                },
+                "2": {
+                  "title": ".2 Organizational assets updates",
+                  "id": 66
+                },
+                "3": {
+                  "title": ".3 Change requests",
+                  "id": 67
+                },
+                "4": {
+                  "title": ".4 Work performance information",
+                  "id": 68
+                },
+                "5": {
+                  "title": ".5 Project management plan updates",
+                  "id": 69
+                }
+              }
+            }
+          },
+          "attr": {
+            "collapsed": true,
+            "style": {}
+          }
+        },
+        "2": {
+          "title": "13.3 Manage Stakeholder Engagement",
+          "id": 5,
+          "ideas": {
+            "1": {
+              "title": ".1 Input",
+              "id": 37,
+              "ideas": {
+                "1": {
+                  "title": ".1 Stakeholder management plan",
+                  "id": 38
+                },
+                "2": {
+                  "title": ".2 Communications management plan",
+                  "id": 39
+                },
+                "3": {
+                  "title": ".3 Change log",
+                  "id": 40
+                },
+                "4": {
+                  "title": ".4 Organizational process assets",
+                  "id": 41
+                }
+              },
+              "attr": {
+                "style": {}
+              }
+            },
+            "2": {
+              "title": ".2 Tools & Techniques",
+              "id": 44,
+              "ideas": {
+                "1": {
+                  "title": ".1 Communication methods",
+                  "id": 45
+                },
+                "2": {
+                  "title": ".2 Interpersonal skills",
+                  "id": 46
+                },
+                "3": {
+                  "title": ".3 Management skills",
+                  "id": 47
+                }
+              },
+              "attr": {
+                "style": {}
+              }
+            },
+            "3": {
+              "title": ".3 Outputs",
+              "id": 48,
+              "ideas": {
+                "1": {
+                  "title": ".1 Issue log",
+                  "id": 49
+                },
+                "2": {
+                  "title": ".2 Change requests",
+                  "id": 50
+                },
+                "3": {
+                  "title": ".3 Project management plan updates",
+                  "id": 51
+                },
+                "4": {
+                  "title": ".4 Project documents updates",
+                  "id": 52,
+                  "attr": {}
+                },
+                "5": {
+                  "title": ".5 Organizational process assets updates",
+                  "id": 53
+                }
+              },
+              "attr": {
+                "style": {},
+                "collapsed": true
+              }
+            }
+          },
+          "attr": {
+            "style": {},
+            "collapsed": true
+          }
+        },
+        "3": {
+          "title": "13.2 Plan Stakeholder Management",
+          "id": 4,
+          "ideas": {
+            "5": {
+              "title": ".1 Inputs",
+              "id": 26,
+              "ideas": {
+                "1": {
+                  "title": ".1 Project management plan",
+                  "id": 21,
+                  "attr": {
+                    "style": {}
+                  }
+                },
+                "2": {
+                  "title": "2. Stakeholder register",
+                  "id": 22,
+                  "attr": {
+                    "style": {}
+                  }
+                },
+                "3": {
+                  "title": "3. Enterprise environmental factors",
+                  "id": 23,
+                  "attr": {
+                    "style": {}
+                  }
+                },
+                "4": {
+                  "title": ".4 Organizational process assets",
+                  "id": 24,
+                  "attr": {
+                    "style": {}
+                  }
+                }
+              },
+              "attr": {
+                "collapsed": true,
+                "style": {}
+              }
+            },
+            "6": {
+              "title": ".2 Tools and Techniques",
+              "id": 27,
+              "ideas": {
+                "1": {
+                  "title": ".1 Meetings",
+                  "id": 30
+                },
+                "2": {
+                  "title": ".2 Expert judgement",
+                  "id": 31
+                },
+                "3": {
+                  "title": ".3 Analytical techniques",
+                  "id": 32
+                }
+              },
+              "attr": {
+                "collapsed": true,
+                "style": {}
+              }
+            },
+            "7": {
+              "title": ".3 Outputs",
+              "id": 33,
+              "ideas": {
+                "1": {
+                  "title": ".1 Stakeholder management plan",
+                  "id": 34
+                },
+                "2": {
+                  "title": ".2 Project documents updates",
+                  "id": 35
+                }
+              },
+              "attr": {
+                "collapsed": true,
+                "style": {}
+              }
+            }
+          },
+          "attr": {
+            "collapsed": true,
+            "style": {}
+          }
+        },
+        "4": {
+          "title": "13.1 Identify Stakeholder",
+          "id": 2,
+          "ideas": {
+            "1": {
+              "title": ".1 Inputs",
+              "id": 7,
+              "ideas": {
+                "1": {
+                  "title": ".1 Project Charter",
+                  "id": 8
+                },
+                "2": {
+                  "title": ".2 Procurement documents",
+                  "id": 9
+                },
+                "3": {
+                  "title": ".3 Organizational process assets",
+                  "id": 10
+                },
+                "4": {
+                  "title": ".4 Enterprise environment factors",
+                  "id": 11
+                }
+              },
+              "attr": {
+                "collapsed": true,
+                "style": {}
+              }
+            },
+            "2": {
+              "title": ".2 Tools and Techniques",
+              "id": 13,
+              "ideas": {
+                "1": {
+                  "title": ".1 Stakeholder analysis",
+                  "id": 14
+                },
+                "2": {
+                  "title": ".2 Expert judgement",
+                  "id": 15
+                },
+                "3": {
+                  "title": ".3 Meetings",
+                  "id": 16
+                }
+              },
+              "attr": {
+                "collapsed": true,
+                "style": {}
+              }
+            },
+            "3": {
+              "title": ".3 Outputs",
+              "id": 18,
+              "ideas": {
+                "1": {
+                  "title": ".1 Stakeholder register",
+                  "id": 19
+                }
+              },
+              "attr": {
+                "collapsed": true,
+                "style": {}
+              }
+            }
+          },
+          "attr": {
+            "collapsed": true,
+            "style": {}
+          }
+        }
+      },
+      "attr": {
+        "style": {
+          "background": "#228B22"
+        },
+        "position": [
+          156,
+          -93,
+          1
+        ]
+      }
+    },
+    "-10": {
+      "title": "5. Project Scope Management",
+      "id": 73,
+      "attr": {
+        "style": {
+          "background": "#228B22"
+        },
+        "position": [
+          281,
+          83,
+          2
+        ]
+      },
+      "ideas": {
+        "1": {
+          "title": "5.1 Plan Scope Management",
+          "id": 74
+        },
+        "2": {
+          "title": "5.2 Collect Requirements",
+          "id": 75
+        },
+        "3": {
+          "title": "5.3 Define Scope",
+          "id": 76
+        },
+        "4": {
+          "title": "5.4 Create WBS",
+          "id": 77
+        },
+        "5": {
+          "title": "5.5 Validate Scope",
+          "id": 78
+        },
+        "6": {
+          "title": "5.6 Control Scope",
+          "id": 79
+        }
+      }
+    }
+  },
+  "attr": {
+    "style": {
+      "background": "#A52A2A"
+    }
+  }
+}
