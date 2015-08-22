@@ -83,7 +83,163 @@
             "style": {}
           }
         },
-        "2": {
+        "0.5": {
+          "title": "13.1 Identify Stakeholder",
+          "id": 2,
+          "ideas": {
+            "1": {
+              "title": ".1 Inputs",
+              "id": 7,
+              "ideas": {
+                "1": {
+                  "title": ".1 Project Charter",
+                  "id": 8
+                },
+                "2": {
+                  "title": ".2 Procurement documents",
+                  "id": 9
+                },
+                "3": {
+                  "title": ".3 Organizational process assets",
+                  "id": 10
+                },
+                "4": {
+                  "title": ".4 Enterprise environment factors",
+                  "id": 11
+                }
+              },
+              "attr": {
+                "style": {}
+              }
+            },
+            "2": {
+              "title": ".2 Tools and Techniques",
+              "id": 13,
+              "ideas": {
+                "1": {
+                  "title": ".1 Stakeholder analysis",
+                  "id": 14
+                },
+                "2": {
+                  "title": ".2 Expert judgement",
+                  "id": 15
+                },
+                "3": {
+                  "title": ".3 Meetings",
+                  "id": 16
+                }
+              },
+              "attr": {
+                "style": {}
+              }
+            },
+            "3": {
+              "title": ".3 Outputs",
+              "id": 18,
+              "ideas": {
+                "1": {
+                  "title": ".1 Stakeholder register",
+                  "id": 19
+                }
+              },
+              "attr": {
+                "style": {}
+              }
+            }
+          },
+          "attr": {
+            "style": {},
+            "collapsed": true
+          }
+        },
+        "0.75": {
+          "title": "13.2 Plan Stakeholder Management",
+          "id": 4,
+          "ideas": {
+            "5": {
+              "title": ".1 Inputs",
+              "id": 26,
+              "ideas": {
+                "1": {
+                  "title": ".1 Project management plan",
+                  "id": 21,
+                  "attr": {
+                    "style": {}
+                  }
+                },
+                "2": {
+                  "title": "2. Stakeholder register",
+                  "id": 22,
+                  "attr": {
+                    "style": {}
+                  }
+                },
+                "3": {
+                  "title": "3. Enterprise environmental factors",
+                  "id": 23,
+                  "attr": {
+                    "style": {}
+                  }
+                },
+                "4": {
+                  "title": ".4 Organizational process assets",
+                  "id": 24,
+                  "attr": {
+                    "style": {}
+                  }
+                }
+              },
+              "attr": {
+                "style": {}
+              }
+            },
+            "6": {
+              "title": ".2 Tools and Techniques",
+              "id": 27,
+              "ideas": {
+                "1": {
+                  "title": ".1 Meetings",
+                  "id": 30
+                },
+                "2": {
+                  "title": ".2 Expert judgement",
+                  "id": 31
+                },
+                "3": {
+                  "title": ".3 Analytical techniques",
+                  "id": 32
+                }
+              },
+              "attr": {
+                "collapsed": true,
+                "style": {}
+              }
+            },
+            "7": {
+              "title": ".3 Outputs",
+              "id": 33,
+              "ideas": {
+                "1": {
+                  "title": ".1 Stakeholder management plan",
+                  "id": 34
+                },
+                "2": {
+                  "title": ".2 Project documents updates",
+                  "id": 35
+                }
+              },
+              "attr": {
+                "collapsed": true,
+                "style": {}
+              }
+            }
+          },
+          "attr": {
+            "style": {},
+            "collapsed": true
+          }
+        },
+        "0.875": {
           "title": "13.3 Manage Stakeholder Engagement",
           "id": 5,
           "ideas": {
@@ -169,166 +325,6 @@
             "style": {},
             "collapsed": true
           }
-        },
-        "3": {
-          "title": "13.2 Plan Stakeholder Management",
-          "id": 4,
-          "ideas": {
-            "5": {
-              "title": ".1 Inputs",
-              "id": 26,
-              "ideas": {
-                "1": {
-                  "title": ".1 Project management plan",
-                  "id": 21,
-                  "attr": {
-                    "style": {}
-                  }
-                },
-                "2": {
-                  "title": "2. Stakeholder register",
-                  "id": 22,
-                  "attr": {
-                    "style": {}
-                  }
-                },
-                "3": {
-                  "title": "3. Enterprise environmental factors",
-                  "id": 23,
-                  "attr": {
-                    "style": {}
-                  }
-                },
-                "4": {
-                  "title": ".4 Organizational process assets",
-                  "id": 24,
-                  "attr": {
-                    "style": {}
-                  }
-                }
-              },
-              "attr": {
-                "collapsed": true,
-                "style": {}
-              }
-            },
-            "6": {
-              "title": ".2 Tools and Techniques",
-              "id": 27,
-              "ideas": {
-                "1": {
-                  "title": ".1 Meetings",
-                  "id": 30
-                },
-                "2": {
-                  "title": ".2 Expert judgement",
-                  "id": 31
-                },
-                "3": {
-                  "title": ".3 Analytical techniques",
-                  "id": 32
-                }
-              },
-              "attr": {
-                "collapsed": true,
-                "style": {}
-              }
-            },
-            "7": {
-              "title": ".3 Outputs",
-              "id": 33,
-              "ideas": {
-                "1": {
-                  "title": ".1 Stakeholder management plan",
-                  "id": 34
-                },
-                "2": {
-                  "title": ".2 Project documents updates",
-                  "id": 35
-                }
-              },
-              "attr": {
-                "collapsed": true,
-                "style": {}
-              }
-            }
-          },
-          "attr": {
-            "collapsed": true,
-            "style": {}
-          }
-        },
-        "4": {
-          "title": "13.1 Identify Stakeholder",
-          "id": 2,
-          "ideas": {
-            "1": {
-              "title": ".1 Inputs",
-              "id": 7,
-              "ideas": {
-                "1": {
-                  "title": ".1 Project Charter",
-                  "id": 8
-                },
-                "2": {
-                  "title": ".2 Procurement documents",
-                  "id": 9
-                },
-                "3": {
-                  "title": ".3 Organizational process assets",
-                  "id": 10
-                },
-                "4": {
-                  "title": ".4 Enterprise environment factors",
-                  "id": 11
-                }
-              },
-              "attr": {
-                "collapsed": true,
-                "style": {}
-              }
-            },
-            "2": {
-              "title": ".2 Tools and Techniques",
-              "id": 13,
-              "ideas": {
-                "1": {
-                  "title": ".1 Stakeholder analysis",
-                  "id": 14
-                },
-                "2": {
-                  "title": ".2 Expert judgement",
-                  "id": 15
-                },
-                "3": {
-                  "title": ".3 Meetings",
-                  "id": 16
-                }
-              },
-              "attr": {
-                "collapsed": true,
-                "style": {}
-              }
-            },
-            "3": {
-              "title": ".3 Outputs",
-              "id": 18,
-              "ideas": {
-                "1": {
-                  "title": ".1 Stakeholder register",
-                  "id": 19
-                }
-              },
-              "attr": {
-                "collapsed": true,
-                "style": {}
-              }
-            }
-          },
-          "attr": {
-            "collapsed": true,
-            "style": {}
-          }
         }
       },
       "attr": {
@@ -358,7 +354,8 @@
       "ideas": {
         "1": {
           "title": "5.1 Plan Scope Management",
-          "id": 74
+          "id": 74,
+          "attr": {}
         },
         "2": {
           "title": "5.2 Collect Requirements",
